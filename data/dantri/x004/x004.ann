@@ -1,0 +1,428 @@
+T1	NN 0 10	Dinh_dưỡng
+T2	NN 20 26	yếu_tố
+T3	NN 79 82	trẻ
+T4	NN 103 106	dấu
+T5	NN 115 123	chủ_tịch
+T6	NN 124 126	xã
+T7	NN 158 166	kết_luận
+T8	NN 181 184	Cục
+T9	NN 185 195	Hàng_không
+T10	NNP 204 219	Jetstar_Pacific
+T11	NNP 222 230	Kỳ_Duyên
+T12	NN 355 359	UBND
+T13	NN 360 362	TP
+T14	NNP 363 370	Cần_Thơ
+T15	NNP 424 432	Bắc_Kinh
+T16	NNP 1114 1121	YouTube
+T17	NNP 1323 1330	Samsung
+T18	NNP 1285 1292	Digimax
+T19	NNP 1293 1296	i50
+T20	NN 240 245	người
+T21	NN 256 266	phong_cách
+T22	NN 318 325	cơ_quan
+T23	NN 341 344	đơn
+T24	NN 349 354	lý_do
+T25	NN 387 394	vụ_việc
+T26	NN 435 444	người_đẹp
+T27	NN 451 459	báo_giới
+T28	NN 467 470	fan
+T29	NN 485 493	phong_bì
+T30	NN 536 543	món_quà
+T31	NN 573 579	ma_lực
+T32	NN 595 602	món_quà
+T33	NN 657 664	văn_bản
+T34	NN 695 698	sức
+T35	NN 722 729	Cơ_quan
+T36	NN 758 765	nhập_cư
+T37	NN 786 794	tội_phạm
+T38	NN 779 785	áp_lực
+T39	NN 801 811	chuyên_gia
+T40	NN 838 846	tiêu_cực
+T41	NN 856 863	hộ_khẩu
+T42	NN 869 877	đại_biểu
+T43	NN 896 904	bước_lùi
+T44	NN 911 918	quản_lý
+T45	NN 979 982	cơm
+T46	NN 983 986	gạo
+T47	NN 1003 1006	gạo
+T48	NN 1044 1052	người_ta
+T49	NN 1083 1090	gạo_lứt
+T50	NN 1095 1099	Clip
+T51	NN 1135 1144	cộng_đồng
+T52	NN 1145 1149	mạng
+T53	NN 1155 1158	năm
+T56	NN 1193 1196	lớp
+T57	NN 1201 1204	Hôm
+T58	NN 1208 1210	bố
+T59	NN 1230 1238	học_sinh
+T60	NN 1257 1260	bài
+T61	NN 1279 1282	câu
+T62	NN 1306 1314	sản_phẩm
+T63	NN 1341 1351	người_dùng
+T64	NN 1436 1442	phụ_nữ
+T65	NN 1401 1406	tỉ_lệ
+T66	VB 17 19	là
+T67	VB 27 36	ảnh_hưởng
+T68	VB 98 102	đóng
+T69	VB 127 135	cho_rằng
+T70	VB 139 141	là
+T71	VB 155 157	là
+T72	VB 246 251	chú_ý
+T73	VB 336 340	nhận
+T74	VB 376 386	giải_quyết
+T75	RB 11 16	chính
+T76	RB 37 46	trực_tiếp
+T77	JJ 107 109	đỏ
+T78	JJ 142 149	giả_mạo
+T79	VB 167 176	thanh_tra
+T80	DT 236 239	mọi
+T81	MD 231 235	được
+T82	IN 252 255	với
+T83	JJ 267 275	đơn_giản
+T84	JJ 297 305	quyến_rũ
+T85	RB 282 296	không_kém_phần
+T86	RB 330 335	không
+T87	MD 371 375	đang
+T88	VB 409 417	đặt_chân
+T89	VB 471 474	vây
+T90	VB 634 639	cưỡng
+T91	JJ 692 694	đủ
+T92	VB 702 708	răn_đe
+T93	VB 711 720	ngăn_chặn
+T94	VB 749 752	xin
+T95	VB 753 757	siết
+T96	JJ 769 776	quá_tải
+T97	VB 816 824	cảnh_báo
+T98	VB 828 837	phát_sinh
+T99	VB 849 853	chạy
+T100	VB 882 889	lo_ngại
+T101	VB 893 895	là
+T102	VB 937 944	lớn_lên
+T103	VB 976 978	ăn
+T104	VB 1007 1010	giã
+T105	VB 1017 1020	còn
+T106	VB 1053 1056	gọi
+T107	VB 1100 1108	đăng_tải
+T108	VB 1122 1129	gây_sốt
+T109	VB 1172 1175	dắt
+T110	VB 1179 1181	đi
+T111	VB 1182 1192	khai_giảng
+T112	VB 1216 1220	giao
+T113	VB 1221 1229	đại_diện
+T114	VB 1243 1252	phát_biểu
+T115	VB 1303 1305	là
+T116	VB 1352 1360	mong_đợi
+T117	VB 1391 1395	giúp
+T118	VB 1396 1400	giảm
+T119	NN 1411 1415	bệnh
+T120	VB 1407 1410	mắc
+T121	IN 47 50	đến
+T122	IN 75 78	của
+T123	NN 89 97	hợp_đồng
+T124	PRP 136 138	đó
+T125	PRP 152 154	Đó
+T126	IN 177 180	của
+T127	IN 196 203	đối_với
+T128	CC 276 281	nhưng
+T129	DT 326 329	này
+T130	IN 345 348	bởi
+T131	IN 402 408	từ_khi
+T132	RB 397 401	Ngay
+T133	IN 418 423	xuống
+T134	MD 445 447	đã
+T135	MD 448 450	bị
+T136	DT 463 466	các
+T137	CC 460 462	và
+T138	RB 475 478	kín
+T139	JJ 494 506	truyền_thống
+T140	MD 507 509	đã
+T141	JJ 514 522	chật_hẹp
+T142	RB 510 513	quá
+T143	IN 523 529	so_với
+T144	DT 530 535	những
+T145	NN 544 551	giá_trị
+T146	JJ 552 558	bạc_tỉ
+T147	JJ 559 567	hiện_nay
+T148	CC 570 572	Và
+T149	IN 580 583	của
+T150	PRP 584 586	nó
+T151	DT 589 594	những
+T152	JJ 605 610	khủng
+T153	DT 613 615	ấy
+T154	DT 618 623	không
+T155	MD 627 633	có_thể
+T156	RB 640 643	nổi
+T157	DT 651 656	những
+T158	JJ 665 668	cấm
+T159	JJ 669 680	chung_chung
+T160	JJ 681 688	lâu_nay
+T161	IN 699 701	để
+T162	RB 738 748	khẩn_khoản
+T163	VB 730 737	quản_lý
+T164	IN 766 768	vì
+T165	DT 797 800	Các
+T166	RB 812 815	lại
+T167	MD 825 827	sẽ
+T168	RB 878 881	còn
+T169	IN 905 910	trong
+T170	DT 890 892	đó
+T171	PRP 934 936	em
+T172	IN 945 948	với
+T173	CC 952 954	và
+T177	CC 963 965	và
+T174	RB 969 975	thường
+T175	RB 1021 1027	nguyên
+T176	NN 1028 1030	vỏ
+T178	NN 1031 1034	cám
+T179	PRP 1057 1059	nó
+T180	RB 1060 1071	trang_trọng
+T181	RBR 1072 1075	hơn
+T182	IN 1109 1113	trên
+T183	JJ 987 989	đỏ
+T184	IN 1130 1134	trên
+T185	RB 1159 1164	trước
+T186	MD 1211 1215	được
+T187	JJ 1239 1242	mới
+T188	RB 1265 1271	khoảng
+T189	DT 1272 1278	dăm_ba
+T190	DT 1255 1256	1
+T191	RB 1297 1302	chính
+T192	JJ 1315 1318	mới
+T193	IN 1319 1322	của
+T194	MD 1331 1335	đang
+T195	RB 1422 1430	đặc_biệt
+T196	IN 1434 1435	ở
+T197	RB 1431 1433	là
+T198	MD 1336 1340	được
+T199	MD 1384 1390	có_thể
+T200	DT 1416 1419	này
+T201	DT 1205 1207	đó
+T202	CD 1197 1198	1
+T203	CD 1152 1154	30
+R1	advmod Arg1:T66 Arg2:T75	
+R2	cop Arg1:T2 Arg2:T66	
+R3	advmod Arg1:T67 Arg2:T76	
+R4	case Arg1:T3 Arg2:T122	
+R5	acl Arg1:T2 Arg2:T67	
+R6	nsubj Arg1:T2 Arg2:T1	
+R7	dobj Arg1:T68 Arg2:T4	
+R8	amod Arg1:T4 Arg2:T77	
+R9	nmod Arg1:T5 Arg2:T6	
+R10	cop Arg1:T78 Arg2:T70	
+R11	nsubj Arg1:T78 Arg2:T124	
+R12	ccomp Arg1:T69 Arg2:T78	
+R13	cop Arg1:T7 Arg2:T71	
+R14	nsubj Arg1:T7 Arg2:T125	
+R15	acl Arg1:T7 Arg2:T79	
+R16	nmod Arg1:T8 Arg2:T9	
+R17	case Arg1:T10 Arg2:T127	
+R18	case Arg1:T8 Arg2:T126	
+R19	nmod Arg1:T7 Arg2:T8	
+R20	nmod Arg1:T7 Arg2:T10	
+R21	auxpass Arg1:T72 Arg2:T81	
+R22	det Arg1:T20 Arg2:T80	
+R23	nsubjpass Arg1:T72 Arg2:T11	
+R24	case Arg1:T21 Arg2:T82	
+R25	amod Arg1:T21 Arg2:T83	
+R26	advmod Arg1:T84 Arg2:T85	
+R27	cc Arg1:T83 Arg2:T128	
+R28	conj Arg1:T83 Arg2:T84	
+R29	nmod Arg1:T72 Arg2:T21	
+R30	det Arg1:T22 Arg2:T129	
+R31	neg Arg1:T73 Arg2:T86	
+R32	dobj Arg1:T73 Arg2:T23	
+R33	case Arg1:T24 Arg2:T130	
+R34	nmod Arg1:T73 Arg2:T24	
+R35	nmod Arg1:T13 Arg2:T14	
+R36	nmod Arg1:T12 Arg2:T13	
+R37	aux Arg1:T74 Arg2:T87	
+R38	dobj Arg1:T74 Arg2:T25	
+R39	nsubj Arg1:T74 Arg2:T12	
+R40	acl Arg1:T24 Arg2:T74	
+R42	advmod Arg1:T131 Arg2:T132	
+R43	mark Arg1:T88 Arg2:T131	
+R44	case Arg1:T15 Arg2:T133	
+R45	nmod Arg1:T88 Arg2:T15	
+R46	auxpass Arg1:T89 Arg2:T135	
+R47	aux Arg1:T89 Arg2:T134	
+R48	advmod Arg1:T89 Arg2:T138	
+R49	nsubjpass Arg1:T89 Arg2:T26	
+R50	cc Arg1:T27 Arg2:T137	
+R51	det Arg1:T28 Arg2:T136	
+R52	conj Arg1:T27 Arg2:T28	
+R53	nmod Arg1:T89 Arg2:T28	
+R54	advcl Arg1:T89 Arg2:T88	
+R55	advmod Arg1:T141 Arg2:T142	
+R56	aux Arg1:T141 Arg2:T140	
+R57	det Arg1:T30 Arg2:T144	
+R58	nmod Arg1:T30 Arg2:T145	
+R59	amod Arg1:T145 Arg2:T146	
+R60	amod Arg1:T30 Arg2:T147	
+R61	case Arg1:T30 Arg2:T143	
+R62	nmod Arg1:T141 Arg2:T30	
+R63	case Arg1:T150 Arg2:T149	
+R64	nmod Arg1:T31 Arg2:T150	
+R65	det Arg1:T32 Arg2:T151	
+R66	amod Arg1:T32 Arg2:T152	
+R67	det Arg1:T32 Arg2:T153	
+R68	aux Arg1:T90 Arg2:T155	
+R69	advmod Arg1:T90 Arg2:T156	
+R70	appos Arg1:T150 Arg2:T32	
+R71	acl Arg1:T31 Arg2:T90	
+R72	cc Arg1:T31 Arg2:T148	
+R73	det Arg1:T33 Arg2:T157	
+R74	amod Arg1:T33 Arg2:T158	
+R75	amod Arg1:T33 Arg2:T159	
+R76	amod Arg1:T33 Arg2:T160	
+R77	nmod Arg1:T91 Arg2:T34	
+R78	mark Arg1:T92 Arg2:T161	
+R79	conj Arg1:T92 Arg2:T93	
+R80	xcomp Arg1:T91 Arg2:T92	
+R81	nsubj Arg1:T91 Arg2:T33	
+R82	acl Arg1:T35 Arg2:T163	
+R83	advmod Arg1:T94 Arg2:T162	
+R84	dobj Arg1:T95 Arg2:T36	
+R85	xcomp Arg1:T94 Arg2:T95	
+R86	nsubj Arg1:T94 Arg2:T35	
+R87	nmod Arg1:T38 Arg2:T37	
+R88	conj Arg1:T96 Arg2:T38	
+R89	mark Arg1:T96 Arg2:T164	
+R90	advcl Arg1:T94 Arg2:T96	
+R91	det Arg1:T39 Arg2:T165	
+R92	advmod Arg1:T97 Arg2:T166	
+R93	aux Arg1:T98 Arg2:T167	
+R94	dobj Arg1:T98 Arg2:T40	
+R95	dobj Arg1:T99 Arg2:T41	
+R96	acl Arg1:T40 Arg2:T99	
+R97	ccomp Arg1:T97 Arg2:T98	
+R98	nsubj Arg1:T97 Arg2:T39	
+T204	DT 866 868	Có
+R99	det Arg1:T42 Arg2:T204	
+R100	advmod Arg1:T100 Arg2:T168	
+R101	cop Arg1:T43 Arg2:T101	
+R102	nsubj Arg1:T43 Arg2:T170	
+R103	case Arg1:T44 Arg2:T169	
+R104	nmod Arg1:T43 Arg2:T44	
+R105	ccomp Arg1:T100 Arg2:T43	
+R106	nsubj Arg1:T102 Arg2:T171	
+R107	advmod Arg1:T103 Arg2:T174	
+R108	nmod Arg1:T45 Arg2:T46	
+R109	amod Arg1:T46 Arg2:T183	
+R110	dobj Arg1:T103 Arg2:T45	
+T205	NN 1011 1014	tay
+R111	nmod Arg1:T104 Arg2:T205	
+R112	acl Arg1:T47 Arg2:T104	
+R113	advmod Arg1:T105 Arg2:T175	
+R114	nmod Arg1:T176 Arg2:T178	
+R115	dobj Arg1:T105 Arg2:T176	
+R116	conj Arg1:T104 Arg2:T105	
+R117	dobj Arg1:T106 Arg2:T179	
+R118	nsubj Arg1:T106 Arg2:T48	
+R119	advmod Arg1:T180 Arg2:T181	
+R120	advmod Arg1:T106 Arg2:T180	
+R121	acl Arg1:T50 Arg2:T107	
+R122	case Arg1:T16 Arg2:T182	
+R123	nmod Arg1:T107 Arg2:T16	
+R124	nsubj Arg1:T108 Arg2:T50	
+R125	nmod Arg1:T51 Arg2:T52	
+R126	case Arg1:T51 Arg2:T184	
+R127	nmod Arg1:T108 Arg2:T51	
+R128	nummod Arg1:T53 Arg2:T203	
+R129	advmod Arg1:T53 Arg2:T185	
+R130	xcomp Arg1:T110 Arg2:T111	
+R131	xcomp Arg1:T109 Arg2:T110	
+R132	nummod Arg1:T56 Arg2:T202	
+R133	dobj Arg1:T111 Arg2:T56	
+R134	det Arg1:T57 Arg2:T201	
+R135	xcomp Arg1:T112 Arg2:T113	
+R136	amod Arg1:T59 Arg2:T187	
+R137	dobj Arg1:T113 Arg2:T59	
+R138	xcomp Arg1:T113 Arg2:T114	
+R139	auxpass Arg1:T112 Arg2:T186	
+R140	nsubjpass Arg1:T112 Arg2:T58	
+R141	nmod Arg1:T112 Arg2:T57	
+R142	det Arg1:T60 Arg2:T190	
+R143	det Arg1:T61 Arg2:T189	
+R144	advmod Arg1:T61 Arg2:T188	
+R145	dobj Arg1:T114 Arg2:T60	
+R146	nmod Arg1:T60 Arg2:T61	
+R147	nmod Arg1:T18 Arg2:T19	
+R148	advmod Arg1:T115 Arg2:T191	
+R149	cop Arg1:T62 Arg2:T115	
+R150	nsubj Arg1:T62 Arg2:T18	
+R151	amod Arg1:T62 Arg2:T192	
+R152	case Arg1:T17 Arg2:T193	
+R153	auxpass Arg1:T116 Arg2:T198	
+R154	aux Arg1:T116 Arg2:T194	
+R155	nmod Arg1:T116 Arg2:T63	
+R157	nmod Arg1:T62 Arg2:T17	
+R156	acl Arg1:T62 Arg2:T116	
+R158	aux Arg1:T117 Arg2:T199	
+R159	xcomp Arg1:T117 Arg2:T118	
+R160	dobj Arg1:T118 Arg2:T65	
+R161	dobj Arg1:T120 Arg2:T119	
+R162	det Arg1:T119 Arg2:T200	
+R163	case Arg1:T64 Arg2:T196	
+R164	advmod Arg1:T195 Arg2:T197	
+R165	advmod Arg1:T196 Arg2:T195	
+R166	nmod Arg1:T120 Arg2:T64	
+R167	acl Arg1:T65 Arg2:T120	
+T54	VB 54 64	phát_triển
+T55	JJ 65 74	toàn_diện
+T206	NN 51 53	sự
+R168	vmod Arg1:T206 Arg2:T54	
+R169	amod Arg1:T206 Arg2:T55	
+R170	nmod Arg1:T206 Arg2:T3	
+R171	case Arg1:T206 Arg2:T121	
+R172	nmod Arg1:T67 Arg2:T206	
+T207	CL 85 88	Bản
+R173	cl Arg1:T123 Arg2:T207	
+T208	CL 112 114	vị
+R41	cl Arg1:T5 Arg2:T208	
+R174	nsubj Arg1:T69 Arg2:T5	
+R175	dobj Arg1:T68 Arg2:T123	
+R176	advcl Arg1:T68 Arg2:T69	
+T209	IN 308 317	Tuy_nhiên
+R177	mark Arg1:T73 Arg2:T209	
+T210	CL 481 484	Cái
+R178	cl Arg1:T29 Arg2:T210	
+R179	amod Arg1:T29 Arg2:T139	
+R180	nsubj Arg1:T141 Arg2:T29	
+T211	RB 689 691	có
+R181	advmod Arg1:T91 Arg2:T211	
+T212	IN 646 650	Liệu
+R182	mark Arg1:T91 Arg2:T212	
+T213	RB 923 931	Thủa_nhỏ
+R183	advmod Arg1:T102 Arg2:T213	
+T214	NN 949 951	bà
+T215	NN 955 957	mẹ
+T216	NN 960 962	Bà
+T217	NN 966 968	mẹ
+T218	RB 1037 1043	Về_sau
+T219	RB 1078 1080	là
+T220	DT 999 1002	thứ
+T221	RB 992 995	vốn
+T222	RB 996 998	là
+R184	cc Arg1:T214 Arg2:T173	
+R185	conj Arg1:T214 Arg2:T215	
+R186	case Arg1:T214 Arg2:T172	
+R187	nmod Arg1:T102 Arg2:T214	
+R188	cc Arg1:T216 Arg2:T177	
+R189	conj Arg1:T216 Arg2:T217	
+R190	nsubj Arg1:T103 Arg2:T216	
+R191	advmod Arg1:T221 Arg2:T222	
+R192	det Arg1:T47 Arg2:T220	
+R193	advmod Arg1:T47 Arg2:T221	
+R194	appos Arg1:T46 Arg2:T47	
+R195	advmod Arg1:T106 Arg2:T219	
+R196	nmod Arg1:T106 Arg2:T49	
+T223	NN 1165 1171	bà_nội
+T224	NN 1176 1178	bố
+R197	nsubj Arg1:T109 Arg2:T223	
+R198	dobj Arg1:T109 Arg2:T224	
+R199	nmod Arg1:T109 Arg2:T53	
+T225	RB 1363 1371	Ngoài_ra
+T226	VB 1374 1383	tập_luyện
+R200	csubj Arg1:T117 Arg2:T226	
+R201	advmod Arg1:T117 Arg2:T225	
+R202	advmod Arg1:T106 Arg2:T218	
